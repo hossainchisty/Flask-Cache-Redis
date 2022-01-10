@@ -1,6 +1,4 @@
 /__pycache__/
 /env
-.flake8
-.isort.cfg
 note.md
 .env
