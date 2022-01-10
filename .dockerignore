@@ -1,0 +1,8 @@
+# Project build medadata that can't be used in docker
+__pycache__
+env
+.github
+.git*
+
+# Documentation not needed
+README.md
