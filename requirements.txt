@@ -6,7 +6,7 @@ charset-normalizer==2.0.10
 click==8.0.3
 Deprecated==1.2.13
 Faker==11.3.0
-Flask==2.0.2
+Flask==2.3.2
 idna==3.3
 iniconfig==1.1.1
 isort==5.10.1
